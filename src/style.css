@@ -1,0 +1,105 @@
+body{
+    background-color: aqua;
+}
+
+.card-text{
+    font-size: 16px;
+}
+
+.fab{
+    border-radius: 100%;
+    bottom: 25px;
+    font-size: 30px;
+    padding: 25px;
+    position: fixed;
+    right: 25px;
+}
+
+.subtitulo{
+    font-size: 25px;
+    font-style: oblique;
+}
+.sidebar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 1rem 1.5rem;
+    height: 100%;
+    overflow: auto;
+    background-color: antiquewhite;
+
+}
+
+.sidebar-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.formulario{
+    background-color: yellowgreen;
+    max-width: 650px;
+    margin: 10px auto;
+    padding: 40px;
+    border-radius: 40px;
+}
+
+.row{
+    padding: 15px;
+}
+.contenedor-form{
+    margin: 8px 15px;
+    padding: 10px 0px;
+
+}
+
+.label-form{
+
+    font-size: 16px;
+    text-align: center;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    
+
+    
+}
+
+.input-form{
+    width: 400px;
+    float: right;
+    height: 40px;
+    text-align: center;
+    border: 0;
+    border-radius: 8px;
+  
+
+}
+.label-form-selector{
+    display: flex;
+    text-align: center;
+    
+
+}
+.label-form2{
+    margin: 0 40px;
+    width: 100%;
+
+}
+.input-form-selector{
+    display: flex;
+    text-align: center;
+    padding-bottom: 10px;
+
+}
+.container-input-form2{
+    width: 100%;
+}
+.input-form2{
+    text-align: center;
+    border: 0;
+    border-radius: 8px;
+    width: 250px;
+    height: 35px;
+    
+     
+}
